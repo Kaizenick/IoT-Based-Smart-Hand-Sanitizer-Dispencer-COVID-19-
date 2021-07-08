@@ -32,31 +32,6 @@ Figure 42.6,42.7,42.8 shows a custom-designed 3D printed model of the dispenser.
 * Using Convolution Neural Network to decide with a mask or without a mask. Using 2 convolutional layers first one having 200 (3*3) kernels and the second layer is having 100 (3*3) kernels. Then these layers are flattened, and hence a new layer is created. A dropout layer is used to reduce the overfitting. Then finally it is connected to a dense layer of 50 neurons and at the last, the output layer has 2 neurons (with a mask and without a mask). After the first and second layers, ReLU Layer (Rectified Linear Unit) and a pooling layer are used. The ReLU layer is a piecewise linear function which acts as the activation function. It gives the output directly if the input is having a value greater than 0 i.e. positive and the pooling layer is used to reduce the number of parameters and computation in the network. The data is split into testing and training, 30% and 70% respectively. After the splitting, the models are trained. 25 models (epochs) were trained. After compiling the models checkpoints were created to save the models. The models having validation loss greater than a specific value were chosen and hence the best models were saved. 
 * As mentioned earlier, 25 models (epochs) were trained. In Graph1 training loss is the loss or the inaccuracy while training the model. Hence as more and more no of models were trained this value kept decreasing. On the other hand, validation loss is inaccuracy while testing. The validation loss is more important than the training loss.  The figure 42.12 shows for the 9th, 17th and 19th model (epoch) the validation loss is the least compared to other values. Also, in Graph 2 the training accuracy and the testing accuracy are plotted. When the models were compared, 17th model has the maximum validation accuracy or testing accuracy of 94.93%. The execution time for the model was 1 minute 214 milliseconds per step with a loss of 0.1887. Figure 42.14 shows the output.
 
-
-
-
-
-
-
-
-
-
-
-
-
-Paper available at : https://drive.google.com/file/d/1qcUOE-HdOTZPRiFFslAAejRB80ydhQt0/view?usp=sharing
-
-
-
-
-
-
-
-
-
-
-
-
 Datasets https://drive.google.com/drive/folders/1fs2-vaO2T01V-g6w6l18tQD0tuI7fmtS?usp=sharing
 
 Tinkercad https://www.tinkercad.com/things/33GHexLPtPE
