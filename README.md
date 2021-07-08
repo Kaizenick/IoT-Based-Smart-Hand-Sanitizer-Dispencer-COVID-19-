@@ -10,19 +10,19 @@ https://www.tinkercad.com/things/33GHexLPtPE
 ## Colab link
 https://colab.research.google.com/drive/1FkY34IKlSJQih96nu9Ny3J6Twz1T3emY?usp=sharing
 
-- ![](Images/pic1.png)<br />
-schematic diagram of IOT based smart contactless hand sanitizer dispenser
-- ![](Images/pic6.png)<br />
-3D printed model of the dispenser with camera, ultrasonic sensor, temperature sensor and nozzle
-- ![](Images/pic9.png)<br />
-Schematic of the Convolutional Neural network (CNN)
-- ![](Images/pic10.png)<br />
-Epochs vs Loss
-- ![](Images/pic11.png)<br />
-Epochs vs Accuracy
-- ![](Images/pic12.png)<br />
-Face mask detection 
-- ![](Images/pic13.png)<br />
-Block diagram for sending data to Thingspeak
-- ![](Images/pic14.png)<br />
-Software and their different channels reading.
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic1.png" width="40%"><br />
+schematic diagram of IOT based smart contactless hand sanitizer dispenser<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic6.png" width="40%"><br />
+3D printed model of the dispenser with camera, ultrasonic sensor, temperature sensor and nozzle<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic9.png" width="40%"><br />
+Schematic of the Convolutional Neural network (CNN)<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic10.png" width="40%"><br />
+Epochs vs Loss<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic11.png" width="40%"><br />
+Epochs vs Accuracy<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic12.png" width="40%"><br />
+Face mask detection <br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic13.png" width="40%"><br />
+Block diagram for sending data to Thingspeak<br />
+<img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic14.png" width="40%"><br />
+Software and their different channels reading.<br />
