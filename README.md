@@ -38,6 +38,8 @@ Tinkercad https://www.tinkercad.com/things/fQQD9d8JxzN-15-with-esp-ampampamp-mas
 
 Colab link https://colab.research.google.com/drive/1FkY34IKlSJQih96nu9Ny3J6Twz1T3emY?usp=sharing
 
+Research Paper https://www.taylorfrancis.com/books/edit/10.1201/9781003240853/smart-buildings-digitalization-gnana-swathika-karthikeyan-sanjeevikumar-padmanaban
+
 <img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic1.png" width="40%"><br />
 schematic diagram of IOT based smart contactless hand sanitizer dispenser<br />
 <img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic6.png" width="40%"><br />
@@ -54,6 +56,7 @@ Face mask detection <br />
 Block diagram for sending data to Thingspeak<br />
 <img src="https://github.com/Kaizenick/IoT-Based-Smart-Hand-Sanitizer-Dispencer-COVID-19-/blob/main/Images/pic14.png" width="40%"><br />
 Software and their different channels reading.<br />
+
 
 ## Conclusion and Future works
 A brand-new system has been developed having four applications, the primary one being the automatic sanitizer dispenser and the others being temperature detection, facemask detection system and data aggregation system This will lead to a consistent and healthy sanitizing experience for both the customer and the store owner.. The SMART HAND SANITIZER DISPENSER sanitizes the customer’s hands without any physical contact. It eliminates the need for a person to sanitize customers' hands. Hence it also reduces the risk of disease transmission. The IoT Based system consists of an Arduino Uno, and several other secondary components are linked to it, such as: A camera, temperature sensor and ESP8622 Wi-Fi module. The ultrasonic sensor and the temperature sensor are mounted on the body of the dispenser. As the customer's hands are detected by the ultrasonic sensor, the dispenser dispenses the same amount of sanitizer each time. Simultaneously it checks the hand temperature and looks for the mask on the customers face. All this information is uploaded on the cloud. If the face mask is not detected the door to the shop is not opened in other words, the customer is not allowed to enter the shop. The cloud data can be accessed by a mobile or a computer and it can be used for further studies. If there is any problem with the dispenser the interrupt button can be used to reset the machine. 
